@@ -2,6 +2,9 @@
 
 # 💧 Liquidity1.com
 
+![](https://github.com/liquidity1/liquidity1/blob/main/liquidity1.png?raw=true)
+
+
 ### Global Trading • Cryptocurrency • International Stocks
 
 **Modern Trading Platform • Global Market Access • Easy-to-Use Experience**
