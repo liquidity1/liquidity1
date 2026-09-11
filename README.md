@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💧 Liquidity1.com
+#  Liquidity1.com
 
 ![](https://github.com/liquidity1/liquidity1/blob/main/liquidity1.png?raw=true)
 
